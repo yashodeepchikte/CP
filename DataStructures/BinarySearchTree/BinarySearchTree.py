@@ -164,4 +164,4 @@ class BinarySearchTree:
                 
 # Big O analysis
 # insertion ---> ordinary case O(Log(n)) worst case O(n) if the BTS is skewed height = n
-# Searching ---> ordinary case O(Log(n)) wordt case O(n) if the BTS is skewed height = n
+# Searching ---> ordinary case O(Log(n)) wordt case O(n) if the BTS is skewed height = n 
